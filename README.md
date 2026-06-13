@@ -144,7 +144,7 @@ React • TypeScript • Tailwind CSS • Supabase • React Query • Vite
 
 ## 📫 Connect With Me
 
-📧 Email: ajaykirthika3@gmail.com
+📧 Email: ajaysamuelsureshbabu@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/ajay-samuel-s
 
