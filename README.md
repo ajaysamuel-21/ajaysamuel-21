@@ -54,6 +54,38 @@ An advanced smart healthcare framework focused on:
 - Privacy-Preserving Analytics
 - Adaptive Healthcare Monitoring
 
+# Fleet Management System
+
+Smart transportation platform for VIT shuttle services with real-time tracking, route management, and ticket booking.
+
+## Tech Stack
+MERN Stack • Flutter • Raspberry Pi • IoT • Machine Learning
+
+## Features
+- Real-time vehicle tracking
+- Route management
+- Ticket booking
+- Arrival prediction
+- Mobile application support
+
+👥 Team Project
+
+# FUDGEFUSIONFINDS
+
+Modern business website developed for a home baking business with authentication, product management, and customer engagement features.
+
+## Tech Stack
+React • TypeScript • Tailwind CSS • Supabase • React Query • Vite
+
+## Features
+- User authentication
+- Product catalog
+- Customer reviews
+- User profiles
+- Responsive design
+
+💼 Freelance Client Project
+
 #### Technologies
 
 `Python` `TensorFlow` `Machine Learning` `Deep Learning`
@@ -100,16 +132,6 @@ An advanced smart healthcare framework focused on:
 
 ---
 
-## 🎯 Current Goals
-
-- Build production-ready AI systems
-- Contribute to impactful open-source projects
-- Publish research in intelligent healthcare systems
-- Gain industry experience in Software Engineering and AI
-- Pursue advanced studies in Artificial Intelligence
-
----
-
 ## 📈 GitHub Focus
 
 - Full-Stack Development Projects
@@ -117,14 +139,6 @@ An advanced smart healthcare framework focused on:
 - Research Prototypes
 - Open Source Contributions
 - Experimental Intelligent Systems
-
----
-
-## 📊 GitHub Stats
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaysamuel&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysamuel&layout=compact)
 
 ---
 
